@@ -323,13 +323,14 @@ a {
 /* footer Section Styling */
 
 footer{
-    padding: 20px 0;
+    padding: 35px 0;
     background:#333;
     color: #fff;
 }
 
 .footer_items{
     text-align: center;
+    line-height: 40px;
 }
 
 .footer_items a:hover{
