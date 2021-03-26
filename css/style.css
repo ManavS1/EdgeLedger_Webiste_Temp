@@ -46,8 +46,6 @@ a {
     background: rgb(16, 143, 33);
 }
 
-
-
 /* Navbar Styling */
 
 .navbar {
@@ -336,3 +334,6 @@ footer{
 .footer_items a:hover{
     color:#34e25d;
 }
+
+
+/* Media Query */
